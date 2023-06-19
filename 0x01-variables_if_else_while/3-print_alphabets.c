@@ -8,7 +8,6 @@
  */
 
 int main(void)
-
 {
 	char low;
 
@@ -20,5 +19,4 @@ int main(void)
         putchar('\n');
 	
         return (0);
-
 }
