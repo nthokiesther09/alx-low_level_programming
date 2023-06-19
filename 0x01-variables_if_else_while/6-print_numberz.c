@@ -6,13 +6,12 @@
 
 
 /**
- * main - Entry point
+ * main - Entry poinit
  * Return: Always (Success)
  *
  */
 
 int main(void)
-
 {
 	int d; 
 
